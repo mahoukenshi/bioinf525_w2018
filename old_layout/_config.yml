@@ -13,4 +13,4 @@ github_username:  bioboot
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
