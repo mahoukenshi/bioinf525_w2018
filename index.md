@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="class-material/Bioinf525_image_text.png" alt="Foundations of Bioinformatics and Systems Biology" class="inline" style="width: 100%; border-style: solid;"/>
+<img src="class-material/Bioinf525_image_text.png" alt="Foundations of Bioinformatics and Systems Biology" class="inline" style="width: 10%; border-style: solid;"/>
 
 <br>
 Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research. 
