@@ -1,7 +1,3 @@
----
-layout: page
----
-
 <img src="class-material/Bioinf525_image_text.png" alt="Foundations of Bioinformatics and Systems Biology" class="inline" style="width: 10%; border-style: solid;"/>
 
 <br>
@@ -41,11 +37,11 @@ Satisfactory/unsatisfactory grading will be based on a combination of lecture an
 
 <br>
 **Professor**:  
-Dr. Barry Grant  
-Department of Computational Medicine and Bioinformatics  
-2055 Palmer Commons Building  
+Dr. Peter Freddolino
+Department of Biological Chemistry and Department of Computational Medicine and Bioinformatics
+3301E MSRB III
 University of Michigan  
 
-Email: <bjgrant@umich.edu>  
-Web: <http://thegrantlab.org>
+Email: <petefred@umich.edu>
+Web: <http://freddolino-lab.med.umich.edu>
 
