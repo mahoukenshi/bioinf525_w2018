@@ -1,47 +1,34 @@
-<img src="class-material/Bioinf525_image_text.png" alt="Foundations of Bioinformatics and Systems Biology" class="inline" style="width: 10%; border-style: solid;"/>
+---
+layout: page
+---
 
+
+<img src="class-material/Bioinf525_image_text.png" alt="Foundations of Bioinformatics and Systems Biology" class="inline" style="width: 40%; border-style: solid;"/>
+
+**PAGE UNDER CONSTRUCTION!!** Complete course material and a syllabus will be available soon. In the meantime, a brief course description and tentative schedule are given below.
 <br>
-Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research. 
-
 <br>
-**Description**: *Foundations of Bioinformatics and Systems Biology* (BIOINF524/525) provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins.
 
-The complete course is comprised of three modules covering (1) [**Foundations of Bioinformatics**]({{ site.baseurl }}/module1/); (2) [**Statistics in Bioinformatics**]({{ site.baseurl }}/module2/); and (3) [**Systems Biology**]({{ site.baseurl }}/module3/).  Students may register for all modules as a single three credit course (under course code BIOINF524), or each one credit module separately (under course code BIOINF525).
-
-	Module 1: 	 January 10 – February 2 	(four lectures and four labs).
-	Module 2: 	 February 7 – March 16 		(five lectures and five labs).
-	Module 3: 	 March 21 – April 13 		(four lectures and four labs).
-
+**Description:**  BIOINF524 is a three credit three module course designed to provide biological researchers with the computational and statistical tools that they need to efficiently make use of their experimental data, and to integrate publicly available high-throughput data sets into their work. The course is intended for students with primarily experimental backgrounds and research interests, and will provide a foundation in computational and quantitative methods suitable for analysis of both low- and high-throughput data sets. 
 <br>
-**Schedule**:  One Tuesday lecture and one Thursday lab session per week.  A detailed **syllabus** with topic outlines is available for [**download**]({{ site.baseurl }}/class-material/BIOINF525W17-syllabus.pdf).
-
-	Lectures:	 Tuesdays 2:30 - 4:00 PM, Rm. 2062 Palmer Commons Bldg. 
-	Labs:		 Thursdays 2:30 – 4:00 PM Rm. 2062 Palmer Commons Bldg. 
-
 <br>
-**Prerequisites**: A familiarity with basic biomedical concepts and basic knowledge of computer usage.  No programing skills are needed. 
-
+BIOINF524 itself is comprised of modules covering: (1) Introductory programming and exploratory data analysis with R, (2) Statistical methods for biomedical data, and (3) Systems biology and analysis of high-throughput datasets. BIOINF525 allows for each one credit module to be registered for separately. Students wishing to take only the later modules should consult with the instructor before registering in order to ensure that they have appropriate background knowledge, as the material is somewhat cumulative.
 <br>
-**Requirements**: Students MUST bring their own WiFi enabled laptop to lectures to fully benefit from the highly hands-on nature of each lecture and lab session.  Please see our [**laptop setup instructions**]({{ site.baseurl }}/setup/) for further details. 
-
 <br>
-**Objectives**:
-Students completing this course will be able to apply leading bioinformatics tools and statistical techniques to address biological questions.  Students will also obtain fundamental R programming skills necessary for analyzing data in the life sciences.  Our broader goal is to point towards perspectives that bioinformatics can expose for the integration and analysis of complex biological information.
-
+The course itself consists of weekly lecture sessions and lab sessions, with the latter conducted primarily using the R programming language. Weekly homework assignments will reinforce concepts covered in lecture/lab and provide an opportunity to practice applying the methods that have been learned. 
 <br>
-**Grading**: 
-Satisfactory/unsatisfactory grading will be based on a combination of lecture and lab involvement together with weekly homework and quiz assignment performance.
-
 <br>
-**Why take this course?**: Praise for the 2015 class from [**official student evaluations**]({{ site.baseurl }}/praise/).
-
+**Schedule:**
+ <br> 
+  Lectures:   Tuesdays 2:30-4:00 PM, Room 2062 Palmer Commons <br>
+  Labs:         Thursdays 2:30-4:00 PM, Room 2062 Palmer Commons <br>
+  (Note: During Module 1, all sessions will be combined Lecture/Lab) <br>
 <br>
-**Professor**:  
-Dr. Peter Freddolino
-Department of Biological Chemistry and Department of Computational Medicine and Bioinformatics
-3301E MSRB III
-University of Michigan  
-
-Email: <petefred@umich.edu>
-Web: <http://freddolino-lab.med.umich.edu>
-
+  Module 1: January 9 - February 2 (8 combined lectures/labs) <br>
+  Module 2: February 6 - March 15  (5 lectures, 5 labs) <br>
+  Module 3: March 20 - April 12 (4 lectures, 4 labs) <br>
+<br>
+<br>
+**Prerequisites:** A familiarity with basic biomedical concepts and basic knowledge of computer
+usage. No programing skills are needed. You MUST bring your own wifi enabled laptop to
+lectures and labs to fully participate in this class.
